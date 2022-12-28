@@ -1,3 +1,6 @@
+//Module 8: Multi-temporal Analysis
+//Conduct a time series analysis to determine the effect of the Deep Water Horizon oil spill on algal productivity in the Gulf of Mexico.
+
 // A point representing the general location of deepwater horizon oil rig.
 var dw = ee.Geometry.Point([-88.36555556,28.73805556]);
 
