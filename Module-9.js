@@ -1,3 +1,6 @@
+//Module 9: Ocular Sampling
+//Use remote sensing data to generate a set of potential sampling sites for a study on Elk herbivory.
+
 // Call in NAIP imagery as an image collection.
 var NAIP = ee.ImageCollection("USDA/NAIP/DOQQ")
   .filterBounds(roi)
