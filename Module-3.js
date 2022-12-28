@@ -1,3 +1,6 @@
+//Module 3: Raster Interpretation and Visualization
+//Use visualization methods to interpret Landsat and NLCD data over Montreal and Washington state.
+
 // Image Collection Exploration
 var dataset = ee.ImageCollection("MODIS/006/MYD10A1")
 
