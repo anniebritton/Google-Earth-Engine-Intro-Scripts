@@ -1,3 +1,6 @@
+//Module 2: Exploring Datasets
+//Briefly overview numerous spatial datasets and associated metadata using the MODIS Snow Cover dataset.
+
 // Limit the collection date range to 2018.
 var dataset = dataset
 .filterDate('2018-01-01', '2018-12-31');
