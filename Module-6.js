@@ -1,3 +1,6 @@
+//Module 6: Spectral Indices
+//Use crop data to identify remote sensing indices that can highlight irrigated lands in arid regions.
+
 // Call in image by unique ID.
 var bioClim = ee.Image("WORLDCLIM/V1/BIO");
 print(bioClim, "bioClim");
