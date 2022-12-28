@@ -1,3 +1,6 @@
+//Module 7: Image Classification
+//Generate predictions of aspen presence and absence in western Colorado using the randomForest algorithm and Landsat data.
+
 // Import and filter Landsat 8 surface reflectance data.
 var LS8_SR1 = ee.ImageCollection('LANDSAT/LC08/C01/T1_SR')
   .filterDate('2015-08-01', '2015-11-01') //new date
