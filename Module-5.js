@@ -1,3 +1,6 @@
+//Module 5: Raster Pre-Processing
+//Review dataset processing levels and perform cloudmasking over Quetico Provincial Park in southwest Ontario, Canada.
+
 // Load an initial image to test view a cloudy image.
 var sr = ee.Image('LANDSAT/LC08/C01/T1_SR/LC08_027026_20180829');
 
