@@ -1,3 +1,6 @@
+//Module 1: Introduction to Google Earth Engine
+//Get acquainted with the user interface and visualize image differences before and after the High Park Fire.
+
 // Call in NAIP imagery as an image collection.
 var NAIP = ee.ImageCollection("USDA/NAIP/DOQQ");
 
