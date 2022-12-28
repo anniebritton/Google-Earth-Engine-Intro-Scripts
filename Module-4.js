@@ -1,3 +1,6 @@
+//Module 4: Moving Data In and Out of Google Earth Engine
+//Integrate daily weather data with GPS locations from a cougar to analyze how weather affects the cat’s movement.
+
 // imported the data and not add it to the map and print
 Map.addLayer(cougarF53, {}, "cougar presence data")
 print(cougarF53, "cougar data")
